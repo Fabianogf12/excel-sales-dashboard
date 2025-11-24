@@ -1,4 +1,7 @@
 # Dashboard de Vendas em Excel  
+
+![Preview do Dashboard](dashboard-preview.gif)
+
 Projeto criado para treinar análise de performance comercial e construção de dashboards em Excel com foco em indicadores, clareza e tomada de decisão.
 
 
