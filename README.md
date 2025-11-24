@@ -1,5 +1,6 @@
 # Dashboard de Vendas em Excel  
-Análise completa de vendas, metas e performance utilizando Excel como ferramenta de Data Analysis.
+Projeto criado para treinar análise de performance comercial e construção de dashboards em Excel com foco em indicadores, clareza e tomada de decisão.
+
 
 ---
 
